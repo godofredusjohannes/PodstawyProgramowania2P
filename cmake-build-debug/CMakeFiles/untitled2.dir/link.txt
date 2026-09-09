@@ -1,1 +1,1 @@
-/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/untitled2.dir/Programowanie_Obiektowe.cpp.o CMakeFiles/untitled2.dir/Klasa_Czlowiek.cpp.o -o untitled2
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/untitled2.dir/KlasaGoniu.cpp.o -o untitled2
